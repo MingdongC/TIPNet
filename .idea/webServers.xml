@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="53470e71-3bf4-465d-a2af-552afc3d4474" name="ct34142" url="http:///">
+        <fileTransfer rootFolder="/home/ct34142" accessType="SFTP" host="10.12.1.160" port="22" sshConfigId="d056fcb0-0cba-4199-9547-ae7e6e4d962b" sshConfig="ct34142@10.12.1.160:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d8f9a187-c45a-48d8-9968-f05a09538461" name="ct33012" url="http:///">
+        <fileTransfer rootFolder="/home/ct33012" accessType="SFTP" host="10.12.1.160" port="22" sshConfigId="6f981962-7476-423a-9e33-a33f0c4d36bb" sshConfig="ct33012@10.12.1.160:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="55e5d579-103d-4d83-9093-c3c54b08d5bc" name="cunzai" url="http:///">
+        <fileTransfer rootFolder="/home/cunzai" accessType="SFTP" host="172.25.6.12" port="22" sshConfigId="3b619338-f942-45d3-839f-74c192a98ca8" sshConfig="cunzai@172.25.6.12:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
